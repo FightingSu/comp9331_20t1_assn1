@@ -1,0 +1,1 @@
+kill `ps -ef | grep xterm | awk '{print $2}'`
