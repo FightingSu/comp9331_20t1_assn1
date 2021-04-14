@@ -1,10 +1,10 @@
 # Readme
 
-These code are for the assignment 1, COMP9331. In this project, a simple distribute hash table is implemented. 
+These code are for the assignment 1, COMP9331. In this project, a simple distributed hash table is implemented. 
 
 ## Description
 
-These code implemented a simple distribute hash table and corresponding operation, including:
+These code implemented a simple distributed hash table and corresponding operation, including:
 
 + a single node can join, leave system
 + each node will send heartbeat packets to detect abrupt leave
